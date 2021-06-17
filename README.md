@@ -1,2 +1,2 @@
 # simpleList
-JavaScript-HTML-DOM simple listing.
+JavaScript-HTML-DOM simple Checklist
